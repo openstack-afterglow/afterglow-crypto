@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "afterglow-crypto"
-version = "0.1.0"
+version = "0.1.1"
 description = "Afterglow AES-GCM + HKDF sub-key domain-separated encryption primitive"
 requires-python = ">=3.12"
 dependencies = [
